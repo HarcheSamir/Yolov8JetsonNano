@@ -8,7 +8,7 @@ cap.set(3, 640)
 cap.set(4, 480)
 
 # model
-model = YOLO("./trainedModels/best24.pt")
+model = YOLO("./trainedModels/best25.pt")
 class_names = model.names
 
 while True:
