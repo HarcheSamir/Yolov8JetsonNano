@@ -6,7 +6,6 @@
 • Get a 32 GB (minimal) SD card to hold the image.  
 • Download the image [JetsonNanoUb20_3b.img.xz](https://ln5.sync.com/dl/403a73c60/bqppm39m-mh4qippt-u5mhyyfi-nnma8c4t/view/default/14418794280004) (8.7 GByte!).  
 • Flash the image on the SD card with [balenaEtcher](https://etcher.balena.io/).  
-• According to [issue #17](https://github.com/your-repo/issues/17), only flash the xz directly, not an unzipped img image.  
 • Insert the SD card in your Jetson Nano and enjoy.  
 • Password: `jetson`
 
