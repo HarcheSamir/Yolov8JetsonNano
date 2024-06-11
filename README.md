@@ -13,8 +13,8 @@
 
 ## Usage
 ```terminal
-python3 -m pip install ultralytics.
-git clone https://github.com/HarcheSamir/Yolov8JetsonNano.
+python3 -m pip install ultralytics
+git clone https://github.com/HarcheSamir/Yolov8JetsonNano
 cd Yolov8JetsonNano
 python3 vidTest.py # or webCam.py to use with attached cameras
 ```   
