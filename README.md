@@ -4,7 +4,7 @@
 
 ## Installation
 • Get a 32 GB (minimal) SD card to hold the image.  
-• Download the image <a href="[http://example.com/](https://ln5.sync.com/dl/403a73c60/bqppm39m-mh4qippt-u5mhyyfi-nnma8c4t/view/default/14418794280004)" target="_blank">Hello, world!</a> (8.7 GByte!).  
+• Download the image [JetsonNanoUb20_3b.img.xz](https://ln5.sync.com/dl/403a73c60/bqppm39m-mh4qippt-u5mhyyfi-nnma8c4t/view/default/14418794280004) (8.7 GByte!).  
 • Flash the image on the SD card with [balenaEtcher](https://etcher.balena.io/) after format.  
 • Insert the SD card in your Jetson Nano .  
 • Password: `jetson`
